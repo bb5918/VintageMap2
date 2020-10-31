@@ -1,7 +1,7 @@
 # VintageMap
 
 ### npm install
-### nodemon ./bin/www
+### npm run start
 
 ```shell
 echo "# VintageMap" >> README.md
